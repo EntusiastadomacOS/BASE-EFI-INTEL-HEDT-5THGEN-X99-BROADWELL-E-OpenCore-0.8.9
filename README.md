@@ -9,7 +9,7 @@ Initial macOS Support|OS X 10.11, El Capitan.
 
 # Basic Steps
 
-1. [Download](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-5THGEN-X99-BROADWELL-E/releases) the latest release;
+1. [Download](https://github.com/EntusiastadomacOS/BASE-EFI-INTEL-HEDT-5THGEN-X99-BROADWELL-E-OpenCore-0.8.9/releases) the latest release;
 2. Includes **additional** kexts (for ethernet, audio, etc);
 3. Include the **necessary** ACPI patches (.aml);
 4. Review the special notes;
